@@ -1,0 +1,17 @@
+C:\Users\thomas\source\repos\edxl_cap_v1_2_VS4Win_Plus\edxl_cap_v1_2\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\thomas\source\repos\edxl_cap_v1_2_VS4Win_Plus\edxl_cap_v1_2\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\thomas\source\repos\edxl_cap_v1_2_VS4Win_Plus\edxl_cap_v1_2\bin\Debug\netcoreapp2.1\bundleconfig.json
+C:\Users\thomas\source\repos\edxl_cap_v1_2_VS4Win_Plus\edxl_cap_v1_2\bin\Debug\netcoreapp2.1\edxl_cap_v1_2.deps.json
+C:\Users\thomas\source\repos\edxl_cap_v1_2_VS4Win_Plus\edxl_cap_v1_2\bin\Debug\netcoreapp2.1\edxl_cap_v1_2.runtimeconfig.json
+C:\Users\thomas\source\repos\edxl_cap_v1_2_VS4Win_Plus\edxl_cap_v1_2\bin\Debug\netcoreapp2.1\edxl_cap_v1_2.runtimeconfig.dev.json
+C:\Users\thomas\source\repos\edxl_cap_v1_2_VS4Win_Plus\edxl_cap_v1_2\bin\Debug\netcoreapp2.1\edxl_cap_v1_2.dll
+C:\Users\thomas\source\repos\edxl_cap_v1_2_VS4Win_Plus\edxl_cap_v1_2\bin\Debug\netcoreapp2.1\edxl_cap_v1_2.pdb
+C:\Users\thomas\source\repos\edxl_cap_v1_2_VS4Win_Plus\edxl_cap_v1_2\obj\Debug\netcoreapp2.1\edxl_cap_v1_2.csproj.AssemblyReference.cache
+C:\Users\thomas\source\repos\edxl_cap_v1_2_VS4Win_Plus\edxl_cap_v1_2\obj\Debug\netcoreapp2.1\edxl_cap_v1_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thomas\source\repos\edxl_cap_v1_2_VS4Win_Plus\edxl_cap_v1_2\obj\Debug\netcoreapp2.1\edxl_cap_v1_2.AssemblyInfoInputs.cache
+C:\Users\thomas\source\repos\edxl_cap_v1_2_VS4Win_Plus\edxl_cap_v1_2\obj\Debug\netcoreapp2.1\edxl_cap_v1_2.AssemblyInfo.cs
+C:\Users\thomas\source\repos\edxl_cap_v1_2_VS4Win_Plus\edxl_cap_v1_2\obj\Debug\netcoreapp2.1\edxl_cap_v1_2.csproj.CoreCompileInputs.cache
+C:\Users\thomas\source\repos\edxl_cap_v1_2_VS4Win_Plus\edxl_cap_v1_2\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\thomas\source\repos\edxl_cap_v1_2_VS4Win_Plus\edxl_cap_v1_2\obj\Debug\netcoreapp2.1\edxl_cap_v1_2.dll
+C:\Users\thomas\source\repos\edxl_cap_v1_2_VS4Win_Plus\edxl_cap_v1_2\obj\Debug\netcoreapp2.1\edxl_cap_v1_2.pdb
+C:\Users\thomas\source\repos\edxl_cap_v1_2_VS4Win_Plus\edxl_cap_v1_2\obj\Debug\netcoreapp2.1\edxl_cap_v1_2.genruntimeconfig.cache
